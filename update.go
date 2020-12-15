@@ -30,6 +30,8 @@ const (
 const README_HEADER = `
 # Gophers....
 
+The Go gopher was designed by the awesome [Renee French](http://reneefrench.blogspot.com/). Read http://blog.golang.org/gopher for more details.
+
 The images and art-work in this repository are under [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 However, if you do use something, you are encouraged to:
@@ -38,11 +40,13 @@ However, if you do use something, you are encouraged to:
 * submit new ideas via twitter @egonelbre
 * request some sketch to be vectorized
 
-Do note that, the Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/).
-The Gopher character design is licensed under the Creative Commons 3.0 Attributions license.
-Read http://blog.golang.org/gopher for more details.
+Or if you like to directly support me:
 
-<img src=".thumb/animation/morning-coffee-3x.gif "> <img src=".thumb/animation/gopher-dance-long-3x.gif "> <img src=".thumb/icon/gotham-3x.png ">
+<a target="_blank" href="https://www.buymeacoffee.com/egon"><img alt="Buy me a Coffee" src=".thumb/animation/buy-morning-coffee-3x.gif"></a>
+
+<img src=".thumb/icon/emoji-3x.png ">
+
+<img src=".thumb/animation/gopher-dance-long-3x.gif "> <img src=".thumb/icon/gotham-3x.png ">
 
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
 
@@ -234,6 +238,10 @@ func MakeThumbs(name, folder, output string) *Thumbs {
 	thumbs.Folder = folder
 
 	for _, file := range files {
+		if strings.Contains(file.Name(), ".sheet.") {
+			continue
+		}
+
 		path := filepath.Join(folder, file.Name())
 		log.Printf("> add: %v\n", path)
 

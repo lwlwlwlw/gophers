@@ -1,6 +1,8 @@
 
 # Gophers....
 
+The Go gopher was designed by the awesome [Renee French](http://reneefrench.blogspot.com/). Read http://blog.golang.org/gopher for more details.
+
 The images and art-work in this repository are under [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 However, if you do use something, you are encouraged to:
@@ -9,11 +11,13 @@ However, if you do use something, you are encouraged to:
 * submit new ideas via twitter @egonelbre
 * request some sketch to be vectorized
 
-Do note that, the Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/).
-The Gopher character design is licensed under the Creative Commons 3.0 Attributions license.
-Read http://blog.golang.org/gopher for more details.
+Or if you like to directly support me:
 
-<img src=".thumb/animation/morning-coffee-3x.gif "> <img src=".thumb/animation/gopher-dance-long-3x.gif ">  <img src=".thumb/icon/gotham-3x.png ">
+<a target="_blank" href="https://www.buymeacoffee.com/egon"><img alt="Buy me a Coffee" src=".thumb/animation/buy-morning-coffee-3x.gif"></a>
+
+<img src=".thumb/icon/emoji-3x.png ">
+
+<img src=".thumb/animation/gopher-dance-long-3x.gif "> <img src=".thumb/icon/gotham-3x.png ">
 
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
 
@@ -35,16 +39,21 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/fairy-tale/sage.png">](vector/fairy-tale/sage.svg)
 [<img src=".thumb/vector/fairy-tale/witch-learning.png">](vector/fairy-tale/witch-learning.svg)
 [<img src=".thumb/vector/fairy-tale/witch-too-much-candy.png">](vector/fairy-tale/witch-too-much-candy.svg)
+[<img src=".thumb/vector/friends/crash-dummy.png">](vector/friends/crash-dummy.svg)
 [<img src=".thumb/vector/friends/docker.png">](vector/friends/docker.svg)
 [<img src=".thumb/vector/friends/empire-silhouette.png">](vector/friends/empire-silhouette.svg)
 [<img src=".thumb/vector/friends/heart-balloon.png">](vector/friends/heart-balloon.svg)
 [<img src=".thumb/vector/friends/heart-hug.png">](vector/friends/heart-hug.svg)
 [<img src=".thumb/vector/friends/hugging-docker.png">](vector/friends/hugging-docker.svg)
 [<img src=".thumb/vector/friends/liberty.png">](vector/friends/liberty.svg)
+[<img src=".thumb/vector/friends/monkfish.png">](vector/friends/monkfish.svg)
 [<img src=".thumb/vector/friends/stovepipe-hat-front.png">](vector/friends/stovepipe-hat-front.svg)
 [<img src=".thumb/vector/friends/stovepipe-hat.png">](vector/friends/stovepipe-hat.svg)
 [<img src=".thumb/vector/party/birthday.png">](vector/party/birthday.svg)
 [<img src=".thumb/vector/party/music.png">](vector/party/music.svg)
+[<img src=".thumb/vector/projects/emacs-go.png">](vector/projects/emacs-go.svg)
+[<img src=".thumb/vector/projects/go-fuzz.png">](vector/projects/go-fuzz.svg)
+[<img src=".thumb/vector/projects/go-grpc-web.png">](vector/projects/go-grpc-web.svg)
 [<img src=".thumb/vector/projects/network-side.png">](vector/projects/network-side.svg)
 [<img src=".thumb/vector/projects/network.png">](vector/projects/network.svg)
 [<img src=".thumb/vector/projects/surfing-js.png">](vector/projects/surfing-js.svg)
@@ -54,6 +63,8 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/science/gas-mask.png">](vector/science/gas-mask.svg)
 [<img src=".thumb/vector/science/jet-pack.png">](vector/science/jet-pack.svg)
 [<img src=".thumb/vector/science/mistake.png">](vector/science/mistake.svg)
+[<img src=".thumb/vector/science/power-to-the-linux.png">](vector/science/power-to-the-linux.svg)
+[<img src=".thumb/vector/science/power-to-the-mac.png">](vector/science/power-to-the-mac.svg)
 [<img src=".thumb/vector/science/power-to-the-masses.png">](vector/science/power-to-the-masses.svg)
 [<img src=".thumb/vector/science/rocket.png">](vector/science/rocket.svg)
 [<img src=".thumb/vector/science/scientist.png">](vector/science/scientist.svg)
@@ -61,6 +72,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/superhero/gotham.png">](vector/superhero/gotham.svg)
 [<img src=".thumb/vector/superhero/lifting-1TB.png">](vector/superhero/lifting-1TB.svg)
 [<img src=".thumb/vector/superhero/standing.png">](vector/superhero/standing.svg)
+[<img src=".thumb/vector/superhero/zorro.png">](vector/superhero/zorro.svg)
 
 
 
